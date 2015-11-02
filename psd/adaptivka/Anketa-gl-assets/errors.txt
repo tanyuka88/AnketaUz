@@ -1,3 +1,0 @@
-[Fri Oct 30 2015 12:56:05 GMT+0500 (Западная Азия (зима))] Layer "+998 (71) 230-02-02 +998 (97) 702-00-53": Expected Either a default asset specification or a layer asset specification but "+" found.
-[Fri Oct 30 2015 12:55:23 GMT+0500 (Западная Азия (зима))] Layer "info@anketa.uz support@anketa.uz": Unsupported extension: uz
-[Fri Oct 30 2015 12:56:15 GMT+0500 (Западная Азия (зима))] Layer "Anketa.Uz – стол услуг в Ташкенте, расположена у посольства Инд": Expected end of input but "\u2013" found.
